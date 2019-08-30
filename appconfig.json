@@ -2,7 +2,7 @@
     "appName": "Player spotter",
     "description": "Spots players on the minimap and warns the user",
     "appUrl": "https://eric-turner.github.io/",
-    "configUrl": "https://eric-turner.github.io/script.js",
+    "configUrl": "https://eric-turner.github.io/appconfig.json",
     "iconUrl": "https://cubeee.github.io/alt1-player-spotter/app_icon.png",
     "defaultWidth": 400,
     "defaultHeight": 200,
