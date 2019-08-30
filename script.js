@@ -20,7 +20,7 @@ var Status = {
     },
     PAUSED: {
         id: "PAUSED",
-        text: "Paused",
+        text: "Paused rn",
         class: "paused"
     },
     RUNNING: {
