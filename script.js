@@ -25,7 +25,7 @@ var Status = {
     },
     RUNNING: {
         id: "RUNNING",
-        text: "OK",
+        text: "OK-",
         class: "ok"
     },
     ALERT: {
