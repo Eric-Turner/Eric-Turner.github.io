@@ -9,8 +9,8 @@ ImageData.fromBase64(function (result) {
 var minimapReader = new MinimapReader();
 var minimap = null;
 
-var minimapRefreshInterval = 5000;
-var playerFinderInterval = 1000;
+var minimapRefreshInterval = 2000;
+var playerFinderInterval = 100;
 
 var Status = {
     STARTING: {
@@ -20,12 +20,12 @@ var Status = {
     },
     PAUSED: {
         id: "PAUSED",
-        text: "Paused rn",
+        text: "Paused.",
         class: "paused"
     },
     RUNNING: {
         id: "RUNNING",
-        text: "OK-",
+        text: "OKAY",
         class: "ok"
     },
     ALERT: {
